@@ -2,7 +2,7 @@
 /**
 * partition_hoare - Lomutu partition scheme for quicksort algorithm
 * @a: Array to sort
-* @l: lowest index of array
+* @l: lowest index of array of value
 * @h: highest index of array
 * Return: index of pivot
 */
