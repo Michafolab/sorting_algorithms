@@ -1,11 +1,16 @@
+#include "sort.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include "sort.h"
 
 /**
- * main - Entry point
+ * bubble_sort - function that sorts an array
+ * of inte
+ * Bubble sort algorithm
  *
- * Return: Always 0
+ * @array: input arrray
+ * @size: size of the array
+ * Return: no return
  */
 void bubble_sort(int *array, size_t size)
 {
